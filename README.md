@@ -1,6 +1,6 @@
 # tribute-page
 Freecodecamp tribute page project
-Build an app that is functionally similar to https://tribute-page.freecodecamp.rocks
+Build an app that is functionally similar to https://tribute-page.freecodecamp.rocks / https://www.veronicasolomon.com/
 User Stories:
 
 	Your tribute page should have an element with a corresponding id="main", which contains all other elements
